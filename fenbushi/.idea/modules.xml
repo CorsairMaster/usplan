@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fenbushi.iml" filepath="$PROJECT_DIR$/fenbushi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-moudle/user-controller/user-controller.iml" filepath="$PROJECT_DIR$/user-moudle/user-controller/user-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-moudle/user-moudle.iml" filepath="$PROJECT_DIR$/user-moudle/user-moudle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-moudle/user-pojo/user-pojo.iml" filepath="$PROJECT_DIR$/user-moudle/user-pojo/user-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-moudle/user-service-impl/user-service-impl.iml" filepath="$PROJECT_DIR$/user-moudle/user-service-impl/user-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-moudle/user-service-interface/user-service-interface.iml" filepath="$PROJECT_DIR$/user-moudle/user-service-interface/user-service-interface.iml" />
+    </modules>
+  </component>
+</project>
